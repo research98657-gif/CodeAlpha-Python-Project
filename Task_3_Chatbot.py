@@ -1,4 +1,4 @@
-# Task 4: Basic Chatbot
+# Task 4: Chatbot
 
 print("Chatbot Activated! (type 'Hello' to exit)\n")
 
