@@ -24,6 +24,9 @@ Python programming concepts (loops, conditions, functions)
 Folder Structure
 
 ### Folder Name: CodeAlpha_python_programming
+
 Task_1_hangman.py
+
 Task_2_Stock_Portfolio_Tracker.py
+
 Task_3_Chatbot.py
