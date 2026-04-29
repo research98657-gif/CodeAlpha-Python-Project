@@ -1,4 +1,4 @@
-# Task 2: Stock Portfolio Tracker (Improved)
+# Task 2: Stock Portfolio Tracker
 
 stocks = {
     "AAPL": 180,
